@@ -1,2 +1,12 @@
 # KIM-Piano
-a silly smal Piano for yourr KIM-1
+a silly small Piano for your KIM-1
+
+
+***************************************
+* KIM Piano                           *
+* (c) by Peter Engels  1979           *
+*                                     *
+* plays whole notes from C to D       *
+* by pressing the buttons 0-F.        *
+*                                     *
+***************************************
