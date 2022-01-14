@@ -38,3 +38,4 @@ notes:   .byte   $d5
          .byte   $1f
          .byte   $16
          .byte   $12
+         .byte   $0a
