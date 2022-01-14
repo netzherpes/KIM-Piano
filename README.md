@@ -1,7 +1,7 @@
 # KIM-Piano
 a silly small Piano for your KIM-1
 
-
+<code>
 ***************************************
 * KIM Piano                           *
 * (c) by Peter Engels  1979           *
@@ -10,3 +10,4 @@ a silly small Piano for your KIM-1
 * by pressing the buttons 0-F.        *
 *                                     *
 ***************************************
+</code>
